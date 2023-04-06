@@ -35,6 +35,8 @@ color: #bfc5d2;
 
 .feature-section {
     display: flex;
+    gap: 20px;
+    flex: 1;
     padding: 50px 200px 100px 200px;
     background-color: #1f2937;
 }
@@ -137,6 +139,7 @@ button {
 
 .action-container {
     display: flex;
+    justify-content: space-between;
     gap: 180px;
     background-color: #3882F6;
     border-radius: 10px;
