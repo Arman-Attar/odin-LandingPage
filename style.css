@@ -73,7 +73,8 @@ button {
     color: #dee1e8;
     padding: 7px 30px;
     border-radius: 8px;
-    border: none;
+    border-style: none;
+    cursor: pointer;
 }
 
 /* INFO SECTION CSS */
