@@ -166,3 +166,16 @@ button {
     font-size: 18px;
     color: #babfca;
 }
+
+/* FOOTER CSS */
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.footer-text {
+    padding: 35px;
+}
